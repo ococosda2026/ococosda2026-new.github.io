@@ -44,5 +44,3 @@ After completing the payment, participants are required to fill out the registra
 
 > {: .highlight }
 Registration form link to follow
-
-----
