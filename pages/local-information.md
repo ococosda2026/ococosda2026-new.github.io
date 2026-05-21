@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Venue
 
-The {{site.vars.conference.full_name}} will be held at [{{site.vars.conference.full_location}}](https://plantationbay.com/).
+The  29th International Conference of Oriental COCOSDA will be held at [Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines](https://plantationbay.com/).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1963.0061646301099!2d123.98238965000002!3d10.26058875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9909b062b564f%3A0x3111ac5bd41461a3!2sPlantation%20Bay%2C%20a%20Real%20Resort%20with%20a%20Real%20Spa!5e0!3m2!1sen!2sph!4v1777445479713!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
