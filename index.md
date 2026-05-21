@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 # **The 29th International Conference of Oriental COCOSDA**
 ### 📍 Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines
