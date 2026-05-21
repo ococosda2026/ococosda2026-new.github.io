@@ -27,7 +27,7 @@ The official currency of the country is the **Philippine Peso** (PHP).
 - [New Generation Currency Series](https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx)
 - [First Philippine Polymer Banknote Series](https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx)
   
-![Philippine Currency](images/ph_currency.png)
+![Philippine Currency](../images/ph_currency.png)
 
 > [Old design series banknotes were already demonetized](https://www.bsp.gov.ph/Pages/CoinsAndNotes/DemonetizedCoinsAndNotes/DemonetizedNotesAndCoinsOverview.aspx) and are not anymore accepted in stores.
 {: .prompt-warning }
