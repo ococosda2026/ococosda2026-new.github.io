@@ -7,6 +7,19 @@ Oriental COCOSDA (O-COCOSDA) is the Oriental branch of COCOSDA (the Internationa
 
 The first preparatory meeting took place in Hong Kong in 1997, and since then, 28 workshops have been hosted in various countries, including China, India, Indonesia, Japan, Korea, Macau, Malaysia, Myanmar, Nepal, the Philippines, Singapore, Taiwan, Thailand, and Vietnam. This year, the 29th edition of the conference returns to the Philippines and will be held on Mactan Island, Province of Cebu. It is jointly organized by the De La Salle University College of Computer Studies - Advanced Research Institute for Informatics, Computing, and Networking (AdRIC), through its Center for Language Technologies (CeLT), and University of San Carlos Department of Computer, Information Sciences, and Mathematics. O-COCOSDA 2026 is an ISCA-supported event, and the proceedings will be submitted for inclusion in the ISCA Archive.
 
+Papers are invited on substantial, original, and unpublished research on all aspects of speech databases, assessments, and speech I/O, including, but not limited to:
+
+- Speech databases and text corpora
+- Assessment of spech input and output technologies
+- Phonetic/phonological systems for oriental languages
+- Romanization of non-roman characters
+- Segmentation and labeling
+- Speech prosody and labeling
+- Speech processing models and systems
+- Multilingual speech corpora
+- Special topics on speech databases and assessments
+- Standardization
+
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
 More specifically, the created site:
