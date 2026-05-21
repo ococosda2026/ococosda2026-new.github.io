@@ -56,4 +56,3 @@ Chair, O-COCOSDA 2026 <br>
 Senior Lecturer, Department of Software Technology, College of Computer Studies, De La Salle University <br>
 nathaniel.oco@dlsu.edu.ph
 
-----
