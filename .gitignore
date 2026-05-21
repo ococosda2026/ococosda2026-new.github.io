@@ -17,3 +17,6 @@ vendor/
 # Ignore ide files and local ruby version files
 .idea/
 .ruby-version
+
+# Gemfile.lock
+Gemfile.lock
