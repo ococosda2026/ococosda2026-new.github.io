@@ -18,8 +18,8 @@ Registration payments may be made using one of the following methods:
 
 ### Online Payment
 
-> Details to follow
-{: .prompt-info }
+{: .highlight }
+Details to follow
 
 ### Bank Transfer
 - **Account No. (in USD):** 104580228807
