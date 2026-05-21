@@ -2,6 +2,7 @@
 title: Home
 layout: home
 ---
+# The 29th International Conference of Oriental COCOSDA
 
 Oriental COCOSDA (O-COCOSDA) is the Oriental branch of COCOSDA (the International Committee for the Coordination and Standardisation of Speech Databases and Assessment Techniques). Established in 1997, its primary goal is to foster the exchange of ideas, share insights, and address regional matters related to the creation, use, and distribution of spoken language corpora for Oriental languages. In addition, O-COCOSDA focuses on the assessment of speech recognition and synthesis systems, while promoting speech research in Oriental languages.
 
