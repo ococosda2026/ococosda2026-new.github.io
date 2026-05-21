@@ -16,8 +16,8 @@ PDF files must not be password-protected, and all fonts must be embedded. Paper 
 (Word and LaTeX) are available below.
 </p>
 
-[Word](assets/paper_templates/O-COCOSDA2026_word.doc){: .btn .btn-purple .mr-2 }
-[LaTeX](assets/paper_templates/O-COCOSDA2026_latex.zip){: .btn .btn-purple .mr-2 }
+[Word](/assets/paper_templates/O-COCOSDA2026_word.doc){: .btn .btn-purple .mr-2 }
+[LaTeX](/assets/paper_templates/O-COCOSDA2026_latex.zip){: .btn .btn-purple .mr-2 }
 
 <p style="text-align: justify">
 Papers must be submitted through the <b>EasyChair system</b> via the designated submission link. 
