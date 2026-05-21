@@ -18,7 +18,7 @@ Registration payments may be made using one of the following methods:
 
 ### Online Payment
 
-{: .highlight }
+> {: .highlight }
 Details to follow
 
 ### Bank Transfer
@@ -29,8 +29,8 @@ Details to follow
 - **SWIFT Code:** BNORPHMM
 - **Kindly specify at the Purpose/Remarks:** O-COCOSDA
 
-> Please note that bank transfers may incur additional fees, which are the responsibility of the participant. Transfer fees vary depending on the policies of the sending bank; participants are advised to consult their bank for details. If the amount received by the organizing committee is less than the required registration fee due to transfer charges, participants must settle the outstanding balance.
-{: .prompt-warning }
+{: .note }
+Please note that bank transfers may incur additional fees, which are the responsibility of the participant. Transfer fees vary depending on the policies of the sending bank; participants are advised to consult their bank for details. If the amount received by the organizing committee is less than the required registration fee due to transfer charges, participants must settle the outstanding balance.
 
 ----
 
@@ -42,6 +42,5 @@ Participants who are unable to complete payment in advance and wish to pay onsit
 
 After completing the payment, participants are required to fill out the registration form.
 
-> Registration form link to follow
-{: .prompt-info }
-----
+> {: .highlight }
+Registration form link to follow
