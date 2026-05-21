@@ -8,7 +8,9 @@ layout: home
 
 ## Call for Papers
 
+<p style="text-align: justify"> 
 **Oriental COCOSDA (O-COCOSDA)** is the Oriental branch of COCOSDA (the International Committee for the Coordination and Standardisation of Speech Databases and Assessment Techniques). Established in 1997, its primary goal is to foster the exchange of ideas, share insights, and address regional matters related to the creation, use, and distribution of spoken language corpora for Oriental languages. In addition, O-COCOSDA focuses on the assessment of speech recognition and synthesis systems, while promoting speech research in Oriental languages.
+</p>
 
 The first preparatory meeting took place in Hong Kong in 1997, and since then, 28 workshops have been hosted in various countries, including China, India, Indonesia, Japan, Korea, Macau, Malaysia, Myanmar, Nepal, the Philippines, Singapore, Taiwan, Thailand, and Vietnam. This year, the 29th edition of the conference returns to the Philippines and will be held on Mactan Island, Province of Cebu. It is jointly organized by the **De La Salle University College of Computer Studies - Advanced Research Institute for Informatics, Computing, and Networking (AdRIC)**, through its **Center for Language Technologies (CeLT)**, and **University of San Carlos Department of Computer, Information Sciences, and Mathematics**. O-COCOSDA 2026 is an **ISCA-supported event**, and the proceedings will be submitted for inclusion in the **ISCA Archive**.
 
