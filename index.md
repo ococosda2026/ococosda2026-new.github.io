@@ -6,6 +6,8 @@ layout: home
 ### 📍 Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines
 ### 📅 November 9-11, 2026
 
+----
+
 ## Call for Papers
 
 <p style="text-align: justify"> 
@@ -45,14 +47,14 @@ Papers are invited on substantial, original, and unpublished research on all asp
 
 ### Angie Ceniza-Canillo
 
-Chair, O-COCOSDA 2026
-Chair, Department of Computer, Information Sciences, and Mathematics, University of San Carlos
+Chair, O-COCOSDA 2026 <br>
+Chair, Department of Computer, Information Sciences, and Mathematics, University of San Carlos <br>
 amceniza@usc.edu.ph
 
 ### Nathaniel Oco
 
-Chair, O-COCOSDA 2026
-Senior Lecturer, Department of Software Technology, College of Computer Studies, De La Salle University
+Chair, O-COCOSDA 2026 <br>
+Senior Lecturer, Department of Software Technology, College of Computer Studies, De La Salle University <br>
 nathaniel.oco@dlsu.edu.ph
 
 ----
