@@ -6,10 +6,10 @@ nav_order: 3
 ---
 # Registration
 
-|                            |   Early Bird (by August 31)   |      After August 31     |
-|:---------------------------|:-------------------|:-------------------|
-|    Authors and Participants|       USD 320      |       USD 380      |
-|                    Students|       USD 180      |       USD 230      |
+|                              | Early bird<br>(by August 31) | After August 31 |
+| ---------------------------: | :--------------------------: | :-------------: |
+| **Authors and Participants** |           USD 320            |     USD 380     |
+|                 **Students** |           USD 180            |     USD 230     |
 
 ----
 
@@ -17,6 +17,7 @@ nav_order: 3
 Registration payments may be made using one of the following methods:
 
 ### Online Payment
+
 {: .highlight }
 Details to follow
 
@@ -28,6 +29,9 @@ Details to follow
 - **SWIFT Code:** BNORPHMM
 - **Kindly specify at the Purpose/Remarks:** O-COCOSDA
 
+> Please note that bank transfers may incur additional fees, which are the responsibility of the participant. Transfer fees vary depending on the policies of the sending bank; participants are advised to consult their bank for details. If the amount received by the organizing committee is less than the required registration fee due to transfer charges, participants must settle the outstanding balance.
+{: .prompt-warning }
+
 ----
 
 The **full registration fee** covers admission to all conference sessions, lunch, morning and afternoon coffee breaks, and the gala dinner. Accommodation and airport transportation are not included in the registration fee.
@@ -38,4 +42,6 @@ Participants who are unable to complete payment in advance and wish to pay onsit
 
 After completing the payment, participants are required to fill out the registration form.
 
+> Registration form link to follow
+{: .prompt-info }
 ----
