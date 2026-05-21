@@ -8,7 +8,7 @@ url: https://ococosda2026.github.io/test
 logo: "images/ococosda-logo.png"
 
 # Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "images/ococosda-favicon.ico"
+favicon_ico: "/images/ococosda-favicon.ico"
 
 # Footer content
 # appears at the bottom of every page's main content
