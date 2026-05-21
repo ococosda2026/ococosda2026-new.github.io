@@ -6,10 +6,10 @@ nav_order: 3
 ---
 # Registration
 
-|                            |   Early Bird (by August 31)   |      After August 31     |
-|:---------------------------|:-------------------|:-------------------|
-|    Authors and Participants|       USD 320      |       USD 380      |
-|                    Students|       USD 180      |       USD 230      |
+|                              | Early bird<br>(by August 31) | After August 31 |
+| ---------------------------: | :--------------------------: | :-------------: |
+| **Authors and Participants** |           USD 320            |     USD 380     |
+|                 **Students** |           USD 180            |     USD 230     |
 
 ----
 
@@ -17,8 +17,9 @@ nav_order: 3
 Registration payments may be made using one of the following methods:
 
 ### Online Payment
-{: .highlight }
-Details to follow
+
+> Details to follow
+{: .prompt-info }
 
 ### Bank Transfer
 - **Account No. (in USD):** 104580228807
@@ -27,6 +28,9 @@ Details to follow
 - **Bank Address:** 2422 Taft Avenue, Malate, Manila, 1004 Philippines
 - **SWIFT Code:** BNORPHMM
 - **Kindly specify at the Purpose/Remarks:** O-COCOSDA
+
+> Please note that bank transfers may incur additional fees, which are the responsibility of the participant. Transfer fees vary depending on the policies of the sending bank; participants are advised to consult their bank for details. If the amount received by the organizing committee is less than the required registration fee due to transfer charges, participants must settle the outstanding balance.
+{: .prompt-warning }
 
 ----
 
@@ -38,4 +42,6 @@ Participants who are unable to complete payment in advance and wish to pay onsit
 
 After completing the payment, participants are required to fill out the registration form.
 
+> Registration form link to follow
+{: .prompt-info }
 ----
