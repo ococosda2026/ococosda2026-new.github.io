@@ -42,13 +42,17 @@ Papers are invited on substantial, original, and unpublished research on all asp
 ### Angie Ceniza-Canillo
 
 Chair, O-COCOSDA 2026
+
 Chair, Department of Computer, Information Sciences, and Mathematics, University of San Carlos
+
 amceniza@usc.edu.ph
 
 ## Nathaniel Oco
 
 Chair, O-COCOSDA 2026
+
 Senior Lecturer, Department of Software Technology, College of Computer Studies, De La Salle University
+
 nathaniel.oco@dlsu.edu.ph
 
 ----
