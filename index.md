@@ -6,6 +6,7 @@ layout: home
 ### 📍 Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines
 ### 📅 November 9-11, 2026
 
+## Call for Papers
 
 **Oriental COCOSDA (O-COCOSDA)** is the Oriental branch of COCOSDA (the International Committee for the Coordination and Standardisation of Speech Databases and Assessment Techniques). Established in 1997, its primary goal is to foster the exchange of ideas, share insights, and address regional matters related to the creation, use, and distribution of spoken language corpora for Oriental languages. In addition, O-COCOSDA focuses on the assessment of speech recognition and synthesis systems, while promoting speech research in Oriental languages.
 
@@ -23,6 +24,14 @@ Papers are invited on substantial, original, and unpublished research on all asp
 - Multilingual speech corpora
 - Special topics on speech databases and assessments
 - Standardization
+
+----
+
+## Important Dates
+
+- **Paper Submission:** July 10, 2026
+- **Acceptance Notification:** August 10, 2026
+- **Camera Ready Deadline:** August 31, 2026
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
